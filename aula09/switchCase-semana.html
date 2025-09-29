@@ -1,0 +1,30 @@
+<script>
+  const diasDaSemana = 6;
+  let mensagem;
+
+  switch (diasDaSemana) {
+    case 0:
+      mensagem = "hoje é domingo, dia de descanso";
+      break;
+    case 1:
+      mensagem = "hoje é segunda, começo da semana";
+      break;
+    case 2:
+      mensagem = "hoje é terça, dia de trabalho";
+      break;
+    case 3:
+      mensagem = "hoje é quarta, metade da semana";
+      break;
+    case 4:
+      mensagem = "hoje é quinta, quase lá";
+      break;
+    case 5:
+      mensagem = "hoje é sexta, ultimo dia";
+      break;
+    case 6:
+      mensagem = "hoje é sabado";
+      break;
+  }
+
+  document.write(`<h2>${mensagem}</h2>`);
+</script>
