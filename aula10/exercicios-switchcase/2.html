@@ -1,0 +1,26 @@
+<script>
+  const selacaoNum = Number(prompt("escolha um numero de 1-5 e veja se é par ou impar"));
+  let mensagem;
+
+  switch (selacaoNum) {
+    case 0:
+      mensagem = "o numero 1 é impar";
+      break;
+    case 1:
+      mensagem = "o numero 2 é par";
+      break;
+    case 2:
+      mensagem = "o numero 3 é impar";
+      break;
+    case 3:
+      mensagem = "o numero 4 é par";
+      break;
+    case 4:
+      mensagem = "o numero 5 é impar";
+      break;
+    default:
+      mensagem = "numero invalido"
+  }
+
+  document.write(`<h2>${mensagem}</h2>`);
+</script>

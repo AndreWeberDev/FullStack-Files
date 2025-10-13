@@ -1,0 +1,47 @@
+<script>
+  const mes = Number(prompt("Qual o mes? (1-12)"));
+  let mensagem;
+
+  switch (mes) {
+    case 0:
+      mensagem = "janeiro";
+      break;
+    case 1:
+      mensagem = "fevereiro";
+      break;
+    case 2:
+      mensagem = "março";
+      break;
+    case 3:
+      mensagem = "abril";
+      break;
+    case 4:
+      mensagem = "maio";
+      break;
+    case 5:
+      mensagem = "junho";
+      break;
+    case 6:
+      mensagem = "julho";
+      break;
+    case 7:
+      mensagem = "agosto";
+      break;
+    case 8:
+      mensagem = "setembro";
+      break;
+    case 9:
+      mensagem = "outubro";
+      break;
+    case 10:
+      mensagem = "novembro";
+      break;
+    case 11:
+      mensagem = "dezembro";
+      break;
+    default:
+      mensagem = "mes invalido"
+  }
+
+  document.write(`<h2>${mensagem}</h2>`);
+</script>
