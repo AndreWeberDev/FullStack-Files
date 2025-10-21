@@ -1,0 +1,25 @@
+<script>
+const valor1 = Number(prompt("Me fale o primeiro numero"))
+const valor2 = Number(prompt("Me fale o segundo numero"))
+const operador = prompt("me fale o operador(+, -, * ou /)")
+
+function calcular(valor1, operador, valor2) {
+  switch (operador) {
+    case '+':
+      return valor1 + valor2;
+    case '-':
+      return valor1 - valor2;
+    case '*':
+      return valor1 * valor2;
+    case '/':
+    
+      if (valor2 === 0) {
+        return "Não é possível dividir por zero.";
+      }
+      return valor1 / valor2;
+    default:
+      return 'Operador inválido';
+  }
+}
+  document.write(`<h2>${operador}</h2>`);
+</script>
