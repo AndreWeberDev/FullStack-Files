@@ -1,0 +1,18 @@
+<script>
+    const numero = 5;
+let fatorial = 1;
+let i = 1;
+
+if (numero >= 0) {
+    if (numero === 0) {
+        fatorial = 1;
+    } else {
+        do {
+            fatorial *= i;
+            i++;
+        } while (i <= numero);
+    }
+}
+
+console.log(fatorial);
+</script>
