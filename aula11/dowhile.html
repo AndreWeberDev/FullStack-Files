@@ -1,9 +1,18 @@
 <script>
-// let cont = 0;
-// do {
-//     document.write("contador: " + cont + "<br />")
-//     cont++;
-// } while(cont <= 5);
+
+  let resposta;
+
+  do {
+    nresposta = prompt("Digite 'SIM' para continuar ou 'NÃO' para cancelar:")
+      .trim()
+      .toUpperCase();
+
+    if(resposta === "SIM") {
+      console.log("Você escolheu continuar.");
+    }
+  } while(resposta === "SIM");
+
+
 
 
 
