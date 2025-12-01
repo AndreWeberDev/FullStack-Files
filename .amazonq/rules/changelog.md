@@ -1,1 +1,0 @@
-descreva e fale sobre todas as alterações que fizer no changelog criado na pasta ia-changelog, fale de forma profisional!
