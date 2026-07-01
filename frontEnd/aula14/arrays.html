@@ -1,0 +1,15 @@
+<script>
+  const anime = ["one piece", "naruto", "eminence in the Shadow", "that time i got reincarnated as a slime", "Solo leveling" ];   
+
+document.write(`<h2> ${anime} </h2>`);
+document.write(`<h2> Quantidade de animes favoritos: ${anime.length} </h2>`);
+document.write(`<h2> Último anime: ${anime[anime.length - 1]} </h2>`);
+
+//  for(let i = 0; i < anime.length; i++) {
+//     document.write(`<h2> anime ${i + 1}: ${anime} </h2>`)  
+//  }
+
+  for( let anime of anime) {
+    document.write(`<h2> anime: ${anime} </h2>`)
+  }
+</script>

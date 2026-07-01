@@ -1,0 +1,26 @@
+<script>
+function identificarCategoriaAnimal(animal) {
+  const animalMinusculo = animal.toLowerCase();
+  let categoria;
+
+  switch (animalMinusculo) {
+    case 'cachorro':
+    case 'gato':
+      categoria = 'Mamífero';
+      break;
+    case 'canario':
+    case 'papagaio':
+      categoria = 'Ave';
+      break;
+    case 'cobra':
+    case 'jacaré':
+      categoria = 'Réptil';
+      break;
+    default:
+      categoria = 'Categoria desconhecida.';
+      break;
+  }
+
+  return `O animal "${animal}" é um(a) ${categoria}.`;
+}
+</script>

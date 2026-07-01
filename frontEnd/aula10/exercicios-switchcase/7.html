@@ -1,0 +1,20 @@
+<script>
+  const turnoAluno = prompt("digite a inicial do turno em que estuda(M = MANHA/ T = TARDE/ N = NOITE):");
+  let turno;
+
+  switch (turnoAluno) {
+    case "M":
+      turno = "manhã";
+      break;
+    case "T":
+      turno = "tarde";
+      break;
+    case "N":
+      turno = "noite";
+      break;
+    default: 
+      turno = "turno invalido"
+  }
+
+  document.write(`Bom(a) ${turno} aluno"`);
+</script>

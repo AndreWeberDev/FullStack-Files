@@ -1,0 +1,40 @@
+<script>
+  const letra = prompt("Digite uma letra do alfabeto");
+  let tipo;
+
+  switch (letra) {
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+    tipo = "vogal";
+      break;
+    case "b":
+    case "c":
+    case "d":
+    case "f":
+    case "g":
+    case "h":
+    case "k":
+    case "j":
+    case "l":
+    case "m":
+    case "n":
+    case "p":
+    case "q":
+    case "r":
+    case "s":
+    case "t":
+    case "v":
+    case "w":
+    case "x":
+    case "y":
+    case "z":
+      tipo = "cosoante";
+      break;
+  
+  }
+
+  document.write(`A letra ${letra} é <strong>${tipo}</strong>`);
+</script>

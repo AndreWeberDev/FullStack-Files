@@ -1,0 +1,27 @@
+<script>
+  const avaliadorNota = (prompt("fale qual nota você tirou (F-D-C-B-A)"));
+  let mensagem;
+
+  switch (selacaoNum) {
+    case "F":
+      mensagem = "reprovado";
+      break;
+    case "D":
+      mensagem = "ruim";
+      break;
+    case "C":
+      mensagem = "regular";
+      break;
+    case "B":
+      mensagem = "bom";
+      break;
+    case "A":
+      mensagem = "excelente";
+      break;
+    default:
+      mensagem = "nota invalida"
+
+  }
+
+  document.write(`<h2>${mensagem}</h2>`);
+</script>

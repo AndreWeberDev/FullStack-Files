@@ -1,0 +1,26 @@
+<script>
+  const bebida = (prompt("fale qual bebida você quer! temos agua, coca, sprite, guarana e suco"));
+  let mensagem;
+
+  switch (bebida) {
+    case "agua":
+      mensagem = "voce escolheu agua";
+      break;
+    case "sprite":
+      mensagem = "voce escolheu sprite";
+      break;
+    case "coca":
+      mensagem = "voce escolheu coca";
+      break;
+    case "suco":
+      mensagem = "voce escolheu suco";
+      break;
+    case "guarana":
+      mensagem = "voce escolheu guarana";
+      break;
+    default:
+      mensagem = "bebida indisponivel"
+  }
+
+  document.write(`<h2>${mensagem}</h2>`);
+</script>

@@ -1,0 +1,41 @@
+<script>
+
+
+function categorizarProduto(produto) {
+  const produto = (prompt("Me fale um produto e direi sua categoria:(maçã, banana, laranja, morango, cenoura, alface, tomate, batata, carne de ave, carne de porco, carne bovina, carne de frango)"))
+  const produtoFormatado = produto.toLowerCase();
+
+  let categoria;
+
+  switch (produtoFormatado) {
+    case 'maçã':
+    case 'banana':
+    case 'laranja':
+    case 'morango':
+      categoria = 'Frutas';
+      break;
+    case 'cenoura':
+    case 'alface':
+    case 'tomate':
+    case 'batata':
+      categoria = 'Legumes';
+      break;
+    case 'carne de ave':
+    case 'carne de porco':
+    case 'carne bovina':
+    case 'carne de frango':
+      categoria = 'Proteinas';
+      break;
+      categoria = 'categoria desconhecida';
+  }
+
+  return categoria;
+}
+
+
+document.write(`O produto ${produto} pertence á categoria ${categoria}"`);
+
+
+
+
+</script>
