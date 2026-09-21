@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Grb8JcZXxPI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Utilitários\\Programação\\development\\VSCommunity\\gerenciadorDeTarefas\\gerenciadorDeTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

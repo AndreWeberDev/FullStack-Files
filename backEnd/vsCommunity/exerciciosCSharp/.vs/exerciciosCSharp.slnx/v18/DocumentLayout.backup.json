@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791E1421-94FB-175E-3824-36D2B2C8DDAE}|exerciciosCSharp.csproj|f:\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\fullstack-files-main\\backend\\vscommunity\\exercicioscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E1421-94FB-175E-3824-36D2B2C8DDAE}|exerciciosCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T23:30:18.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

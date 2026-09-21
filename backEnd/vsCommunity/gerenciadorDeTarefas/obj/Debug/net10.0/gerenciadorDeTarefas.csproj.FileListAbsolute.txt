@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\bin\Debug\net10.0\gerenciadorDeTarefas.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\bin\Debug\net10.0\gerenciadorDeTarefas.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\bin\Debug\net10.0\gerenciadorDeTarefas.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\bin\Debug\net10.0\gerenciadorDeTarefas.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\bin\Debug\net10.0\gerenciadorDeTarefas.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\refint\gerenciadorDeTarefas.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\ref\gerenciadorDeTarefas.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\gerenciadorDeTarefas\obj\Debug\net10.0\gerencia.61BAC609.Up2Date
