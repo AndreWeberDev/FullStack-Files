@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "centralDeChamados": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\bin\Debug\net10.0\centralDeChamados.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\bin\Debug\net10.0\centralDeChamados.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\bin\Debug\net10.0\centralDeChamados.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\bin\Debug\net10.0\centralDeChamados.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\bin\Debug\net10.0\centralDeChamados.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\refint\centralDeChamados.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralDeChamados.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\ref\centralDeChamados.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\centralDeChamados\obj\Debug\net10.0\centralD.B33BB888.Up2Date
