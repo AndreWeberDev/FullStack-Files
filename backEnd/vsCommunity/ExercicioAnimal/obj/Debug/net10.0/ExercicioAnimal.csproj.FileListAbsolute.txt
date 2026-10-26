@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\bin\Debug\net10.0\ExercicioAnimal.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\bin\Debug\net10.0\ExercicioAnimal.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\bin\Debug\net10.0\ExercicioAnimal.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\bin\Debug\net10.0\ExercicioAnimal.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\bin\Debug\net10.0\ExercicioAnimal.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\refint\ExercicioAnimal.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ExercicioAnimal.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\ref\ExercicioAnimal.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\ExercicioAnimal\obj\Debug\net10.0\Exercici.CDC49723.Up2Date

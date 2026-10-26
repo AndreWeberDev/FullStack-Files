@@ -1,35 +1,29 @@
-namespace exerciciosCSharp
+﻿namespace exerciciosCSharp
 {
-    public class Program
+    class Mensagem
     {
-        public static void Main(string[] args)
+        private string t = "Mensagem privada exibida com sucesso!";
+
+        public void Mostrar()
         {
-            var builder = WebApplication.CreateBuilder(args);
+            Console.WriteLine(t);
+        }
 
-            // Add services to the container.
-            builder.Services.AddRazorPages();
+        public static int Somar(int a, int b)
+        {
+            return a + b;
+        }
+    }
 
-            var app = builder.Build();
+    class Program
+    {
+        static void Main()
+        {
+            Mensagem m = new Mensagem();
+            m.Mostrar();
 
-            // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
-            {
-                app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.MapStaticAssets();
-            app.MapRazorPages()
-               .WithStaticAssets();
-
-            app.Run();
+            int resultado = Mensagem.Somar(10, 5);
+            Console.WriteLine($"Soma: {resultado}");
         }
     }
 }

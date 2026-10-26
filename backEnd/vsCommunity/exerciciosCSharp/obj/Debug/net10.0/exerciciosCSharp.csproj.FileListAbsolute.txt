@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\bin\Debug\net10.0\exerciciosCSharp.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\bin\Debug\net10.0\exerciciosCSharp.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\bin\Debug\net10.0\exerciciosCSharp.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\bin\Debug\net10.0\exerciciosCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\bin\Debug\net10.0\exerciciosCSharp.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\refint\exerciciosCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exerciciosCSharp.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\ref\exerciciosCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\exerciciosCSharp\obj\Debug\net10.0\exercici.EC4D8D3D.Up2Date

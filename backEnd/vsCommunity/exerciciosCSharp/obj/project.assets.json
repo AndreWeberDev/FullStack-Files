@@ -2,7 +2,7 @@
   "version": 4,
   "targets": {
     "net10.0": {
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.23.0": {
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.24.2-preview.1": {
         "type": "package",
         "build": {
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
@@ -12,10 +12,10 @@
     }
   },
   "libraries": {
-    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.23.0": {
-      "sha512": "2wDnb4umupJZ/1ikgWozFVpggH1mlHQFc0odXVv2ZagL3RYwXgW9zmC15fiqIBzmaC0vLZUnLGwDY+p8ZR7Syw==",
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.24.2-preview.1": {
+      "sha512": "flsFB9rqlNTeehwCpFTi9gy3IfNLYs3l+jg+Gf7AvJVOa7FHDYST4x1eBG8QU/Q4eZPjBb+LNDlrLtM2EwonAQ==",
       "type": "package",
-      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.23.0",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.24.2-preview.1",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -44,7 +44,7 @@
         "build/ToolsTarget.props",
         "build/ToolsTarget.targets",
         "icon.png",
-        "microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+        "microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512",
         "microsoft.visualstudio.azure.containers.tools.targets.nuspec",
         "tools/Microsoft.VisualStudio.Containers.Tools.Common.dll",
         "tools/Microsoft.VisualStudio.Containers.Tools.Shared.dll",
@@ -95,27 +95,27 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.23.0"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.24.2-preview.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Utilitários\\Programação\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\exerciciosCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\Utilitários\\Programação\\development\\VSCommunity\\exerciciosCSharp\\exerciciosCSharp.csproj",
       "projectName": "exerciciosCSharp",
-      "projectPath": "F:\\Utilitários\\Programação\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\exerciciosCSharp.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "F:\\Utilitários\\Programação\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Documents\\Utilitários\\Programação\\development\\VSCommunity\\exerciciosCSharp\\exerciciosCSharp.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\Utilitários\\Programação\\development\\VSCommunity\\exerciciosCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -124,7 +124,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -144,7 +143,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -153,7 +152,7 @@
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
-            "version": "[1.23.0, )"
+            "version": "[1.24.2-preview.1, )"
           }
         },
         "imports": [
@@ -168,152 +167,13 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
-          "Microsoft.AspNetCore": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
-          "Microsoft.AspNetCore.App": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication.BearerToken": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication.Cookies": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication.Core": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authentication.OAuth": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authorization": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Authorization.Policy": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components.Authorization": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components.Endpoints": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components.Forms": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components.Server": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Components.Web": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Connections.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.CookiePolicy": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Cors": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Cryptography.Internal": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "(,10.0.32767]",
-          "Microsoft.AspNetCore.DataProtection": "(,10.0.32767]",
-          "Microsoft.AspNetCore.DataProtection.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.DataProtection.Extensions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Diagnostics": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Diagnostics.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Diagnostics.HealthChecks": "(,10.0.32767]",
-          "Microsoft.AspNetCore.HostFiltering": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Hosting": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Hosting.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Hosting.Server.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Html.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Connections": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Connections.Common": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Extensions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Features": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Http.Results": "(,10.0.32767]",
-          "Microsoft.AspNetCore.HttpLogging": "(,10.0.32767]",
-          "Microsoft.AspNetCore.HttpOverrides": "(,10.0.32767]",
-          "Microsoft.AspNetCore.HttpsPolicy": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Identity": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Localization": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Localization.Routing": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Metadata": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.ApiExplorer": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Core": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Cors": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.DataAnnotations": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Formatters.Json": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Localization": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.Razor": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.RazorPages": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.TagHelpers": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "(,10.0.32767]",
-          "Microsoft.AspNetCore.OutputCaching": "(,10.0.32767]",
-          "Microsoft.AspNetCore.RateLimiting": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Razor": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Razor.Runtime": "(,10.0.32767]",
-          "Microsoft.AspNetCore.RequestDecompression": "(,10.0.32767]",
-          "Microsoft.AspNetCore.ResponseCaching": "(,10.0.32767]",
-          "Microsoft.AspNetCore.ResponseCaching.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.ResponseCompression": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Rewrite": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Routing": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Routing.Abstractions": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.HttpSys": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.IIS": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.IISIntegration": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.Kestrel": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.Kestrel.Core": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.Kestrel.Transport.Quic": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets": "(,10.0.32767]",
-          "Microsoft.AspNetCore.Session": "(,10.0.32767]",
-          "Microsoft.AspNetCore.SignalR": "(,10.0.32767]",
-          "Microsoft.AspNetCore.SignalR.Common": "(,10.0.32767]",
-          "Microsoft.AspNetCore.SignalR.Core": "(,10.0.32767]",
-          "Microsoft.AspNetCore.SignalR.Protocols.Json": "(,10.0.32767]",
-          "Microsoft.AspNetCore.StaticAssets": "(,10.0.32767]",
-          "Microsoft.AspNetCore.StaticFiles": "(,10.0.32767]",
-          "Microsoft.AspNetCore.WebSockets": "(,10.0.32767]",
-          "Microsoft.AspNetCore.WebUtilities": "(,10.0.32767]",
           "Microsoft.CSharp": "(,4.7.32767]",
-          "Microsoft.Extensions.Caching.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Caching.Memory": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.Binder": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.CommandLine": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.EnvironmentVariables": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.FileExtensions": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.Ini": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.Json": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.KeyPerFile": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.UserSecrets": "(,10.0.32767]",
-          "Microsoft.Extensions.Configuration.Xml": "(,10.0.32767]",
-          "Microsoft.Extensions.DependencyInjection": "(,10.0.32767]",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Diagnostics": "(,10.0.32767]",
-          "Microsoft.Extensions.Diagnostics.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Diagnostics.HealthChecks": "(,10.0.32767]",
-          "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Features": "(,10.0.32767]",
-          "Microsoft.Extensions.FileProviders.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.FileProviders.Composite": "(,10.0.32767]",
-          "Microsoft.Extensions.FileProviders.Physical": "(,10.0.32767]",
-          "Microsoft.Extensions.FileSystemGlobbing": "(,10.0.32767]",
-          "Microsoft.Extensions.Hosting": "(,10.0.32767]",
-          "Microsoft.Extensions.Hosting.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Http": "(,10.0.32767]",
-          "Microsoft.Extensions.Identity.Core": "(,10.0.32767]",
-          "Microsoft.Extensions.Identity.Stores": "(,10.0.32767]",
-          "Microsoft.Extensions.Localization": "(,10.0.32767]",
-          "Microsoft.Extensions.Localization.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.Abstractions": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.Configuration": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.Console": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.Debug": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.EventLog": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.EventSource": "(,10.0.32767]",
-          "Microsoft.Extensions.Logging.TraceSource": "(,10.0.32767]",
-          "Microsoft.Extensions.ObjectPool": "(,10.0.32767]",
-          "Microsoft.Extensions.Options": "(,10.0.32767]",
-          "Microsoft.Extensions.Options.ConfigurationExtensions": "(,10.0.32767]",
-          "Microsoft.Extensions.Options.DataAnnotations": "(,10.0.32767]",
-          "Microsoft.Extensions.Primitives": "(,10.0.32767]",
-          "Microsoft.Extensions.Validation": "(,10.0.32767]",
-          "Microsoft.Extensions.WebEncoders": "(,10.0.32767]",
-          "Microsoft.JSInterop": "(,10.0.32767]",
-          "Microsoft.Net.Http.Headers": "(,10.0.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
           "Microsoft.Win32.Primitives": "(,4.3.32767]",
           "Microsoft.Win32.Registry": "(,5.0.32767]",
@@ -473,7 +333,6 @@
           "System.Diagnostics.Contracts": "(,4.3.32767]",
           "System.Diagnostics.Debug": "(,4.3.32767]",
           "System.Diagnostics.DiagnosticSource": "(,10.0.32767]",
-          "System.Diagnostics.EventLog": "(,10.0.32767]",
           "System.Diagnostics.FileVersionInfo": "(,4.3.32767]",
           "System.Diagnostics.Process": "(,4.3.32767]",
           "System.Diagnostics.StackTrace": "(,4.3.32767]",
@@ -484,7 +343,6 @@
           "System.Drawing.Primitives": "(,4.3.32767]",
           "System.Dynamic.Runtime": "(,4.3.32767]",
           "System.Formats.Asn1": "(,10.0.32767]",
-          "System.Formats.Cbor": "(,10.0.32767]",
           "System.Formats.Tar": "(,10.0.32767]",
           "System.Globalization": "(,4.3.32767]",
           "System.Globalization.Calendars": "(,4.3.32767]",
@@ -560,7 +418,6 @@
           "System.Security.Cryptography.OpenSsl": "(,5.0.32767]",
           "System.Security.Cryptography.Primitives": "(,4.3.32767]",
           "System.Security.Cryptography.X509Certificates": "(,4.3.32767]",
-          "System.Security.Cryptography.Xml": "(,10.0.32767]",
           "System.Security.Principal": "(,4.3.32767]",
           "System.Security.Principal.Windows": "(,5.0.32767]",
           "System.Security.SecureString": "(,4.3.32767]",
@@ -574,7 +431,6 @@
           "System.Threading.AccessControl": "(,10.0.32767]",
           "System.Threading.Channels": "(,10.0.32767]",
           "System.Threading.Overlapped": "(,4.3.32767]",
-          "System.Threading.RateLimiting": "(,10.0.32767]",
           "System.Threading.Tasks": "(,4.3.32767]",
           "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
           "System.Threading.Tasks.Extensions": "(,5.0.32767]",

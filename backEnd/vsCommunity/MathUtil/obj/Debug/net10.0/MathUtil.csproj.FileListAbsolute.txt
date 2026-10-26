@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\bin\Debug\net10.0\MathUtil.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\bin\Debug\net10.0\MathUtil.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\bin\Debug\net10.0\MathUtil.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\bin\Debug\net10.0\MathUtil.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\bin\Debug\net10.0\MathUtil.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\refint\MathUtil.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\ref\MathUtil.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\MathUtil\obj\Debug\net10.0\MathUtil.csproj.Up2Date

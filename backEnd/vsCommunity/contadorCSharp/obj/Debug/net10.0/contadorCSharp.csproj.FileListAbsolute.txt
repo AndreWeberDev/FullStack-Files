@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.AssemblyInfo.cs
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\bin\Debug\net10.0\contadorCSharp.exe
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\bin\Debug\net10.0\contadorCSharp.deps.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\bin\Debug\net10.0\contadorCSharp.runtimeconfig.json
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\bin\Debug\net10.0\contadorCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\bin\Debug\net10.0\contadorCSharp.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\refint\contadorCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.pdb
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contadorCSharp.genruntimeconfig.cache
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\ref\contadorCSharp.dll
+C:\Users\admin\Documents\Utilitários\Programação\development\VSCommunity\contadorCSharp\obj\Debug\net10.0\contador.7F2E1386.Up2Date

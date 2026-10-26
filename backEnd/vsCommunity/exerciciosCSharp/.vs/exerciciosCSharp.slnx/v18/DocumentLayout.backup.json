@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\VSCommunity\\exerciciosCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{791E1421-94FB-175E-3824-36D2B2C8DDAE}|exerciciosCSharp.csproj|f:\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\fullstack-files-main\\backend\\vscommunity\\exercicioscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{791E1421-94FB-175E-3824-36D2B2C8DDAE}|exerciciosCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F1317A-60E2-44BA-AA63-C55816A4850F}|..\\MathUtil\\MathUtil.csproj|c:\\users\\admin\\documents\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\vscommunity\\mathutil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\VSCommunity\\MathUtil\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MathUtil\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\VSCommunity\\MathUtil\\Program.cs",
+              "RelativeToolTip": "..\\MathUtil\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T23:30:18.066Z",
+              "WhenOpened": "2026-10-26T21:22:54.624Z",
               "EditorCaption": ""
             }
           ]
