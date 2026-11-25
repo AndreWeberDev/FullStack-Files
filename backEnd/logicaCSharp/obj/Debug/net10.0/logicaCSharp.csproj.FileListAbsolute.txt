@@ -1,0 +1,14 @@
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\bin\Debug\net10.0\logicaCSharp.exe
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\bin\Debug\net10.0\logicaCSharp.deps.json
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\bin\Debug\net10.0\logicaCSharp.runtimeconfig.json
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\bin\Debug\net10.0\logicaCSharp.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\bin\Debug\net10.0\logicaCSharp.pdb
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.AssemblyInfoInputs.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.AssemblyInfo.cs
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.csproj.CoreCompileInputs.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\refint\logicaCSharp.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.pdb
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\logicaCSharp.genruntimeconfig.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\logicaCSharp\obj\Debug\net10.0\ref\logicaCSharp.dll

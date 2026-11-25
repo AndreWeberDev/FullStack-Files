@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|d:\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\fullstack-files\\backend\\vscommunity\\produtos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|d:\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\fullstack-files\\backend\\vscommunity\\produtos\\ui\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|solutionrelative:ui\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|d:\\utilit\u00E1rios\\programa\u00E7\u00E3o\\development\\fullstack-files\\backend\\vscommunity\\produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FE8E0-3A97-4E74-9628-CD3854840240}|produtos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "produto.cs",
+              "DocumentMoniker": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\Models\\produto.cs",
+              "RelativeDocumentMoniker": "Models\\produto.cs",
+              "ToolTip": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\Models\\produto.cs",
+              "RelativeToolTip": "Models\\produto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:41:54.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iproduto.cs",
+              "DocumentMoniker": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\UI\\Iproduto.cs",
+              "RelativeDocumentMoniker": "UI\\Iproduto.cs",
+              "ToolTip": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\UI\\Iproduto.cs",
+              "RelativeToolTip": "UI\\Iproduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:34:27.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Utilit\u00E1rios\\Programa\u00E7\u00E3o\\development\\FullStack-Files\\backEnd\\vsCommunity\\produtos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:18:24.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

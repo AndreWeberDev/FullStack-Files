@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "logicaCSharp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

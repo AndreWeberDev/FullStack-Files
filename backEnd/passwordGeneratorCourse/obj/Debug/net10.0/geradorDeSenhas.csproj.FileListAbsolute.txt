@@ -1,0 +1,14 @@
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.AssemblyInfoInputs.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.AssemblyInfo.cs
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.csproj.CoreCompileInputs.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\bin\Debug\net10.0\geradorDeSenhas.exe
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\bin\Debug\net10.0\geradorDeSenhas.deps.json
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\bin\Debug\net10.0\geradorDeSenhas.runtimeconfig.json
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\bin\Debug\net10.0\geradorDeSenhas.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\bin\Debug\net10.0\geradorDeSenhas.pdb
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\refint\geradorDeSenhas.dll
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.pdb
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\geradorDeSenhas.genruntimeconfig.cache
+F:\Utilitários\Programação\development\FullStack-Files\backEnd\passwordGeneratorCourse\obj\Debug\net10.0\ref\geradorDeSenhas.dll

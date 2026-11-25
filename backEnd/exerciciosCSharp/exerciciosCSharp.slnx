@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../findSums/findSums.csproj" Id="6b5171ef-1be1-4340-a9b9-12da6e017af7" />
+  <Project Path="exerciciosCSharp.csproj" />
+</Solution>

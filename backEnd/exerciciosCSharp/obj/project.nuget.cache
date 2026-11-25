@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvyIIIlVFeI=",
+  "success": true,
+  "projectFilePath": "F:\\Utilitários\\Programação\\development\\FullStack-Files-main\\backEnd\\vsCommunity\\exerciciosCSharp\\exerciciosCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
